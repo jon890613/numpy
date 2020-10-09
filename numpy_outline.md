@@ -12,6 +12,6 @@ NumPy是Python語言的一個擴充程式庫。支援高階大量的"維度陣�
 
 --shape(形狀)
 --dimension(維度)
-![image](https://github.com/jon890613/numpy/blob/main/numpy%20img/numpy-1d2d3d-array.png)
+
 '''
 
