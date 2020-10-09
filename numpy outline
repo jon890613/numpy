@@ -8,3 +8,10 @@ NumPy是Python語言的一個擴充程式庫。支援高階大量的"維度陣�
 
 '''
 
+重要屬性
+
+--shape(形狀)
+--dimension(維度)
+![image](https://www.w3resource.com/w3r_images/numpy-1d2d3d-array.png)
+'''
+
