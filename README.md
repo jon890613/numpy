@@ -29,7 +29,7 @@ NumPy是Python語言的一個擴充程式庫。支援高階大量的"維度陣�
 
 ## 建立Array
 
-![image](https://github.com/jon890613/numpy/blob/main/numpy%20img/%E5%9C%96%E7%89%871.png)
+![image](https://github.com/jon890613/numpy/blob/main/numpy%20img/%E5%9C%96%E7%89%873.png)
 
 
 ## Array slicing陣列的切片運算
