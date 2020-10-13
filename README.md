@@ -24,7 +24,7 @@ NumPy是Python語言的一個擴充程式庫。支援高階大量的"維度陣�
 
 ## Numpy資料型態
 
-![image](https://github.com/jon890613/numpy/blob/main/numpy%20img/1771684-20200131103546398-1590862676.png)
+![image](https://github.com/jon890613/numpy/blob/main/numpy%20img/%E5%9C%96%E7%89%871.png)
 
 
 ## 建立Array
